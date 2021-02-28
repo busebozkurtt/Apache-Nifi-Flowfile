@@ -1,5 +1,9 @@
-# Apache-Nifi-Flowfile
+# Apache Nifi Flowfile
 Apache Nifi'de oluşturulan Flowfile verilerin enerji santral bilgilerini tek tek çekip , devam eden işlemcilerle birlikte gerekli işlemlerden geçirip SQL’e atma işlemini gerçekleştirir.
+
+## Installation
+Apache Nifi was used in this project. Apache Nifi must be installed on your computer
+> http://nifi.apache.org/download.html
 
 ## Flowfile Processors
 
