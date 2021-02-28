@@ -1,4 +1,4 @@
-# Apache_Nifi
+# Apache-Nifi-Flowfile
 Apache Nifi'de oluşturulan Flowfile verilerin enerji santral bilgilerini tek tek çekip , devam eden işlemcilerle birlikte gerekli işlemlerden geçirip SQL’e atma işlemini gerçekleştirir.
 
 ## Flowfile Processors
